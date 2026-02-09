@@ -1,4 +1,4 @@
-# week1-setup-Jo-Greenlee
+# Week1-Setup
 
 ## System Info
 
@@ -10,8 +10,17 @@
 
 ## Images of Installations and Versions
 
--![alt text](image.png)
+- Screenshot showing Prettier and Live-Server is installed
+  ![alt text](image.png)
 
--![alt text](image-1.png)
+- Screenshot showing Global username and Email
+  ![alt text](image-1.png)
 
--![alt text](image-2.png)
+- Screenshot showing the versions of git and VSCode
+  ![alt text](image-2.png)
+
+- Screenshot of adding a Dev Branch
+  ![alt text](image-3.png)
+
+- Screenshot of the Merge and Pull Request
+  ![alt text](image-4.png)
